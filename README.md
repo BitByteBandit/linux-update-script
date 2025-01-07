@@ -11,7 +11,8 @@ This repository contains `update.sh`, a simple Bash script to automate system up
 2. To run script:
    ./update.sh
 
-**Features**
+## Features
+
 -Updates the package list.
 -Installs available updates.
 -Removes unnecessary packages.
